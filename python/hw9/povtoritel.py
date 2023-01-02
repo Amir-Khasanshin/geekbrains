@@ -7,7 +7,7 @@ bot=telebot.TeleBot("5915037820:AAEiA73sov73Fjda85xCPrhw2r0BAwI1Gik")
 
 @bot.message_handler(commands=["start"])
 def start(m, res=False):
-    bot.send_message(m.chat.id, 'напищи мне')
+    bot.send_message(m.chat.id, 'напиши мне')
 
 @bot.message_handler(content_types=["text"])
 def handle_text(message):
