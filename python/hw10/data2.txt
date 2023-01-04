@@ -1,0 +1,11 @@
+2023-01-05 01:01:55,592 - apscheduler.scheduler - INFO - Scheduler started
+2023-01-05 01:02:06,399 - __main__ - INFO - Выбор операции: Gabriel: Простой повторитель
+2023-01-05 01:02:08,488 - __main__ - INFO - Выбор операции: Gabriel: Gh
+2023-01-05 01:02:10,037 - __main__ - INFO - Выбор операции: Gabriel: Операции с рациональными числами
+2023-01-05 01:02:12,080 - __main__ - INFO - Пользователь ввел число: Gabriel: 5
+2023-01-05 01:02:16,578 - __main__ - INFO - Пользователь ввел число: Gabriel: 5.9
+2023-01-05 01:02:18,767 - __main__ - INFO - Пользователь выбрал операцию Gabriel: /
+2023-01-05 01:02:24,008 - __main__ - INFO - Выбор операции: Gabriel: Cancel
+2023-01-05 01:02:24,008 - __main__ - INFO - Пользователь Gabriel отменил разговор.
+2023-01-05 01:05:05,112 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2023-01-05 01:05:05,117 - apscheduler.scheduler - INFO - Scheduler has been shut down
